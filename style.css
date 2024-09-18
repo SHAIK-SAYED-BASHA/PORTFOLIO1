@@ -68,7 +68,7 @@ nav{
 }
 .main1{
     height: 100vh;
-    background-image: url(MY PROFILE2.jpg);
+    background-image: url(MY\ PROFILE2.jpg);
     background-size:cover;
     color: rgb(0, 0, 0);
     
@@ -134,7 +134,7 @@ nav{
     border: 2px solid red;
     margin: 55px;
     text-align: center;
-    background-image: url(project background.png);
+    background-image: url(project\ background.png);
     background-size: cover;
     background-position: center;
     color: rgb(0, 0, 0);
